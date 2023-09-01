@@ -1,1 +1,4 @@
+
 this is devopts batch
+
+this training with gcp, git ,git hub
