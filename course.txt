@@ -1,0 +1,6 @@
+Kubernetes - Cluster Architecture
+As seen in the following diagram, Kubernetes follows client-server architecture. 
+Wherein, we have master installed on one machine and the node on separate Linux machines.
+Kubernetes - Cluster Architecture
+As seen in the following diagram, Kubernetes follows client-server architecture. 
+Wherein, we have master installed on one machine and the node on separate Linux machines.
